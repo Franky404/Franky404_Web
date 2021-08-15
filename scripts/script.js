@@ -34,19 +34,20 @@ new Vue({
           favorited: false
         },
         {
-
           name: "Hige wo Soru. Soshite Joshikousei wo Hirou. OP Full",
-
           artist: "karu anime paradise",
-
           cover: "https://raw.githubusercontent.com/franky404/music/main/img/4.jpg",
-
           source: "https://raw.githubusercontent.com/franky404/music/main/mp3/4.mp3",
-
           url: "https://youtu.be/ndbUaX3i7cM",
-
           favorited: false
-
+        },
+        {
+          name: "Omoide Shiritori x Gotoubun no Katachi",
+          artist: "CosmicMashups",
+          cover: "https://raw.githubusercontent.com/franky404/music/main/img/5.jpg",
+          source: "https://raw.githubusercontent.com/franky404/music/main/mp3/5.mp3",
+          url: "https://youtu.be/MPK4CznD2yA",
+          favorited: false
         }
       ],
       currentTrack: null,
