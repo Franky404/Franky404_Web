@@ -32,15 +32,8 @@ new Vue({
           source: "https://raw.githubusercontent.com/franky404/music/main/mp3/3.mp3",
           url: "https://youtu.be/WMweEpGlu_U",
           favorited: false
-        },
-        {
-          name: "never gonna give you up",
-          artist: "rick astley",
-          cover: "https://raw.githubusercontent.com/franky404/music/main/img/1.jpg",
-          source: "https://raw.githubusercontent.com/franky404/music/main/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-          favorited: false
         }
+
       ],
       currentTrack: null,
       currentTrackIndex: 0,
