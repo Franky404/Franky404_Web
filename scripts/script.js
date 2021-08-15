@@ -32,6 +32,21 @@ new Vue({
           source: "https://raw.githubusercontent.com/franky404/music/main/mp3/3.mp3",
           url: "https://youtu.be/WMweEpGlu_U",
           favorited: false
+        },
+        {
+
+          name: "Hige wo Soru. Soshite Joshikousei wo Hirou. OP Full",
+
+          artist: "karu anime paradise",
+
+          cover: "https://raw.githubusercontent.com/franky404/music/main/img/4.jpg",
+
+          source: "https://raw.githubusercontent.com/franky404/music/main/mp3/4.mp3",
+
+          url: "https://youtu.be/ndbUaX3i7cM",
+
+          favorited: false
+
         }
       ],
       currentTrack: null,
