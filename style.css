@@ -12,13 +12,13 @@ body {
     display        : flex;
     justify-content: center;
     align-items    : center;
-    background     : linear-gradient(20deg, #ff2844, #6741ff);
+    background     : linear-gradient(20deg,#ff2844 , #6741ff);
 }
 
 .profile-container {
     position        : relative;
     background-color: #fff;
-    width           : 350px;
+    width           : 400px;
     padding         : 100px 50px 40px;
     border-radius   : 12px;
     box-shadow      : 0 0 60px 5px rgba(0, 0, 0, 0.2);
