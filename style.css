@@ -114,12 +114,8 @@ body {
 
 /* Social colors */
 
-.social-container button.youtube {
+.social-container button.whatsapp {
     background: linear-gradient(45deg, #ff000088, #ff0000);
-}
-
-.social-container button.linkedin {
-    background: linear-gradient(45deg, #0e76a888, #0e76a8);
 }
 
 .social-container button.instagram {
